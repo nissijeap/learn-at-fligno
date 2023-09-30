@@ -1,5 +1,3 @@
 # learn-at-fligno
 
-Nissi Jea Paglinawan
-
-For stash purposes -1
+Nissi Jea Paglinawan Bachelor of Science in Information Technology
